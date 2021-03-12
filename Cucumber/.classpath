@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="D:/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ant-1.8.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ant-junit-1.8.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ant-launcher-1.8.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/asm-5.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/asm-analysis-5.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/asm-commons-5.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/asm-tree-5.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/asm-util-5.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/cobertura-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/commons-lang3-3.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/cucumber-core-1.2.5-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/cucumber-java8-1.2.5-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/cucumber-junit-1.2.5-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/cucumber-jvm-deps-1.0.5-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/hamcrest-core-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/jaxen-1.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/jetty-6.1.14.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/jetty-util-6.1.14.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/junit-4.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/junit-4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/logback-classic-1.0.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/logback-core-1.0.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/mockito-all-1.10.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/oro-2.0.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/servlet-api-2.5-6.1.14.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/sikulixsetup-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/slf4j-api-1.7.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/tools-0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
